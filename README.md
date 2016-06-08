@@ -1,10 +1,17 @@
 # Pycon2016_ML(DL)
 ## list of Pycon2016 session related with ML
+![PYCON2016](https://d3nmt5vlzunoa1.cloudfront.net/pycharm/files/2016/05/pyconlogo.png)
+
+
 : Pycon2016 awesome !! and It shows how much ML(DL) is hot these day, 
  Let's check below and train our real neural network(brain)!.
 
 
+
+
 ---
+
+
 
 - [Irene Chen - A Beginner's Guide to Deep Learning - PyCon 2016](https://www.youtube.com/watch?v=kVud83kqv30)   - [[slide](https://speakerdeck.com/pycon2016/irene-chen-a-beginners-guide-to-deep-learning)]
  
