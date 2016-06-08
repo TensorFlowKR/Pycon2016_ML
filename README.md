@@ -1,11 +1,12 @@
 # Pycon2016_ML(DL)
 ## list of Pycon2016 session related with ML
-##### : Pycon2016 awesome !! and It shows how much ML(DL) is hot these day, Let's check below and train our real neural network(brain)!.
+: Pycon2016 awesome !! and It shows how much ML(DL) is hot these day, 
+ Let's check below and train our real neural network(brain)!.
 
 
 ---
 
-- Irene Chen - A Beginner's Guide to Deep Learning - PyCon 2016 [Irene Chen - A Beginner's Guide to Deep Learning - PyCon 2016](https://www.youtube.com/watch?v=kVud83kqv30)   - [[slide](https://speakerdeck.com/pycon2016/irene-chen-a-beginners-guide-to-deep-learning)]
+- [Irene Chen - A Beginner's Guide to Deep Learning - PyCon 2016](https://www.youtube.com/watch?v=kVud83kqv30)   - [[slide](https://speakerdeck.com/pycon2016/irene-chen-a-beginners-guide-to-deep-learning)]
  
  
  : What is deep learning? It has recently exploded in popularity as a complex and incredibly powerful tool. This talk will present the basic concepts underlying deep learning in understandable pieces for complete beginners to machine learning. We will review the math, code up a simple neural network, and provide contextual background on how deep learning is used in production now.
